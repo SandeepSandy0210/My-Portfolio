@@ -1,0 +1,4 @@
+# Automatically normalize line endings
+* text=auto
+# Ensure Markdown files use LF endings
+*.md text eol=lf
